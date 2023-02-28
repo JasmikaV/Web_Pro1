@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Quicksand:wght@500&display=swap');
+body{
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #a6a6a6;
+    font-family: 'Cinzel Decorative', cursive;
+    
+}
+.desc{
+    position: absolute;
+    top: 400px;
+    left: 40px;
+    background-color: brown;
+    color: yellow;
+    padding: 10px 10px 10px 10px;
+    border-radius: 12px;
+    width: 1320px;
+}
+.back{
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    background-color: gray;
+    border-radius: 12px;
+    padding: 5px 5px 5px 5px; 
+    width: fit-content;
+ 
+}
+.back:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.back a{
+    text-decoration: none;
+    color: yellow;
+    
+}
+.back a:hover{
+    transform: scale(1.5);
+    text-decoration: none;
+    text-align: center;
+    color: yellow;
+    
+}

@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Quicksand:wght@500&display=swap');
+body{
+    background-image: url("sports.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    font-family: 'Cinzel Decorative', cursive;
+}
+.fonts{
+    
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+#banner{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 115px;
+}
+#casino{
+    
+    margin-left: 30px;
+}
+#poker{
+    
+    margin-left: 40px;
+}
+#sports{
+    margin-left: 40px;
+}
+#rewards{
+    margin-top: -25px;
+    margin-left: 450px;
+    width: 50px;
+}
+.font1{
+    text-align: center;
+    
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+#join{
+    margin-top: -25px;
+    margin-left: 145px;
+    width: 50px;
+}
+#login{
+    margin-top: -25px;
+    margin-left: 100px;
+    width: 50px;
+}
+#welcome{
+    position: absolute;
+    left: 50px;
+    top: 250px;
+}
+#welcome h2{
+    color: #ffff00;
+    font-size: 30px;
+}
+#logos1{
+    left: 140px;
+    top: 400px;
+    position: absolute;
+    display: flex;
+    
+}
+.logo1{
+    padding: 50px 75px 50px 75px;
+}
+.logo1 img{
+    height: 100px;
+    width: 170px;
+    cursor: pointer;
+}
+.logo1 img:hover{
+    transform: scale(1.5);
+}
+.logo2{
+    padding: 45px 75px 50px 95px;
+}
+.logo2 img{
+    height: 110px;
+    width: 65px;
+    cursor: pointer;
+}
+.logo2 img:hover{
+    transform: scale(1.5);
+}
+.logo3{
+    padding: 45px 75px 50px 100px;
+}
+.logo3 img{
+    height: 110px;
+    width: 120px;
+    cursor: pointer;
+}
+.logo3 img:hover{
+    transform: scale(1.5);
+}
+#logos2{
+    left: 140px;
+    top: 600px;
+    position: absolute;
+    display: flex;
+}
+.logo4{
+    padding: 45px 75px 50px 95px;
+}
+.logo4 img{
+    height: 110px;
+    width: 115px;
+    cursor: pointer;
+}
+.logo4 img:hover{
+    transform: scale(1.5);
+}
+.logo5{
+    padding: 45px 75px 50px 140px;
+}
+.logo5 img{
+    height: 110px;
+    width: 110px;
+    cursor: pointer;
+}
+.logo5 img:hover{
+    transform: scale(1.5);
+}
+.logo6{
+    padding: 45px 75px 50px 100px;
+}
+.logo6 img{
+    height: 110px;
+    width: 110px;
+    cursor: pointer;
+}
+.logo6 img:hover{
+    transform: scale(1.5);
+}
+.logo7{
+    padding: 35px 75px 50px 70px;
+}
+.logo7 img{
+    height: 125px;
+    width: 135px;
+    cursor: pointer;
+}
+.logo7 img:hover{
+    transform: scale(1.5);
+}
